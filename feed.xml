@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>引阳养生</title>
+    <link href="https://lixyd.github.io/lee/feed.xml" rel="self" />
+    <link href="https://lixyd.github.io/lee" />
+    <updated>2025-03-01T21:56:14+08:00</updated>
+    <author>
+        <name>lee</name>
+    </author>
+    <id>https://lixyd.github.io/lee</id>
+
+    <entry>
+        <title>大家好</title>
+        <author>
+            <name>lee</name>
+        </author>
+        <link href="https://lixyd.github.io/lee/da-jia-hao.html"/>
+        <id>https://lixyd.github.io/lee/da-jia-hao.html</id>
+
+        <updated>2025-03-01T21:56:14+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
