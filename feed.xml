@@ -3,22 +3,35 @@
     <title>引阳养生</title>
     <link href="https://lixyd.github.io/lee/feed.xml" rel="self" />
     <link href="https://lixyd.github.io/lee" />
-    <updated>2025-03-01T21:56:14+08:00</updated>
+    <updated>2025-03-02T10:53:16+08:00</updated>
     <author>
-        <name>lee</name>
+        <name>李</name>
     </author>
     <id>https://lixyd.github.io/lee</id>
 
     <entry>
-        <title>大家好</title>
+        <title>关于我们</title>
         <author>
-            <name>lee</name>
+            <name>李</name>
         </author>
-        <link href="https://lixyd.github.io/lee/da-jia-hao.html"/>
-        <id>https://lixyd.github.io/lee/da-jia-hao.html</id>
+        <link href="https://lixyd.github.io/lee/guan-yu-wo-men.html"/>
+        <id>https://lixyd.github.io/lee/guan-yu-wo-men.html</id>
+            <category term="引阳概念"/>
 
-        <updated>2025-03-01T21:56:14+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2025-03-01T23:11:38+08:00</updated>
+            <summary>
+                <![CDATA[
+                    引阳养生， 作为一种结合了阴阳、自然五行和中医学的综合养生理念，旨在通过调节体内外的平衡，达到身心健康的状态。其核心理念是“引阳”，即通过针灸恰当的方式引导阳气流动，调和体内的阴阳，恢复和增强生命力。以下是对“引阳养生”中各个元素的扩展和具体实践。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h6><strong>引阳养生</strong>，</h6>
+<p class="align-left">       作为一种结合了阴阳、自然五行和中医学的综合养生理念，旨在通过调节体内外的平衡，达到身心健康的状态。其核心理念是“引阳”，即通过针灸恰当的方式引导阳气流动，调和体内的阴阳，恢复和增强生命力。以下是对“引阳养生”中各个元素的扩展和具体实践。</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://lixyd.github.io/lee/media/posts/3/-20250212165236-1113x553.png" alt="" width="1113" height="553" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lixyd.github.io/lee/media/posts/3/responsive/-20250212165236-1113x553-xs.png 300w ,https://lixyd.github.io/lee/media/posts/3/responsive/-20250212165236-1113x553-sm.png 480w ,https://lixyd.github.io/lee/media/posts/3/responsive/-20250212165236-1113x553-md.png 768w ,https://lixyd.github.io/lee/media/posts/3/responsive/-20250212165236-1113x553-lg.png 1024w ,https://lixyd.github.io/lee/media/posts/3/responsive/-20250212165236-1113x553-xl.png 1360w ,https://lixyd.github.io/lee/media/posts/3/responsive/-20250212165236-1113x553-2xl.png 1600w"></figure>
+<figcaption ></figcaption>
+</figure>
+            ]]>
+        </content>
     </entry>
 </feed>
